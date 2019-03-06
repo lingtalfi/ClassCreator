@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ClassCreator\Creator;
+namespace Ling\ClassCreator\Creator;
 
 
-use ClassCreator\Comment\Comment;
+use Ling\ClassCreator\Comment\Comment;
 
 /**
  * The CommentCreator class helps creating various comments.

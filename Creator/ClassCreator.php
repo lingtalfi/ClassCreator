@@ -1,14 +1,14 @@
 <?php
 
 
-namespace ClassCreator\Creator;
+namespace Ling\ClassCreator\Creator;
 
 
-use Bat\FileSystemTool;
-use ClassCreator\Comment\Comment;
-use ClassCreator\Method\Method;
-use ClassCreator\Profile\Profile;
-use ClassCreator\Property\Property;
+use Ling\Bat\FileSystemTool;
+use Ling\ClassCreator\Comment\Comment;
+use Ling\ClassCreator\Method\Method;
+use Ling\ClassCreator\Profile\Profile;
+use Ling\ClassCreator\Property\Property;
 
 /**
  * The ClassCreator class helps you creating a well-formatted class.

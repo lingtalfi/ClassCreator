@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ClassCreator\Comment;
+namespace Ling\ClassCreator\Comment;
 
 
 /**

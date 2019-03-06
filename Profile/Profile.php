@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ClassCreator\Profile;
+namespace Ling\ClassCreator\Profile;
 
 
 /**

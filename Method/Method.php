@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ClassCreator\Method;
+namespace Ling\ClassCreator\Method;
 
 
-use ClassCreator\Comment\Comment;
+use Ling\ClassCreator\Comment\Comment;
 
 /**
  * The Method class represents a method to create.

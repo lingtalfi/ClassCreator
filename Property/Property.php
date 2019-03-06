@@ -1,10 +1,10 @@
 <?php
 
 
-namespace ClassCreator\Property;
+namespace Ling\ClassCreator\Property;
 
 
-use ClassCreator\Comment\Comment;
+use Ling\ClassCreator\Comment\Comment;
 
 
 /**
